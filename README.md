@@ -6,4 +6,4 @@ Taken image looks like:
 
 A marked face in the image looks like:
 
-![Alt text](daces_detected.JPG?raw=true "Clock")
+![Alt text](daces_detected.jpg?raw=true "Clock")
